@@ -1,5 +1,6 @@
 import { QueueServiceClient } from '@azure/storage-queue'
 
+// This connection string will be valid for 4 hours (For study purpose)
 const CONNECTION_STRING =
   'DefaultEndpointsProtocol=https;AccountName=krishstoragequeue;AccountKey=9RX9JEMHeYFvwVcUvpp8FJ/n34jgFaevAKlqdZaFv3g2nhELOBFPVcVBRHP8rU8JhBNElf7DEbqGbVp3DVtVfQ==;EndpointSuffix=core.windows.net'
 
