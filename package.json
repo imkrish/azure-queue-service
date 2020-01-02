@@ -1,0 +1,12 @@
+{
+  "name": "azure-queue-storage-tutorial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^13.1.2"
+  },
+  "dependencies": {
+    "@azure/storage-queue": "^12.0.1"
+  }
+}
